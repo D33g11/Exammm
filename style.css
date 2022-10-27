@@ -1,0 +1,113 @@
+header{
+    background-image: url(./image\ 1.png);
+    margin: 0 auto;
+    width: 1728px;
+    height: 1080px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.header-menu{
+    padding-top: 44px;
+    padding-left: 30px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-right: 44px;
+}
+.menu{
+    font-size: 14px;
+    line-height: 21px;
+    line-height: 100%;
+    display: flex;
+    gap: 30px;
+    padding-right: 30px;
+    padding-left: 545px;
+    font-family: 'Poppins', sans-serif;
+}
+.header-textt{
+    font-size: 70px;
+    font-weight: 800;
+    line-height: 105px;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 330px;
+    padding-left: 200px;
+}
+.button-down{
+    padding-left: 1650px;
+    padding-top: 300px;
+}
+body{
+    width: 1728px;
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+}
+.s1{
+    display: flex;
+    height: fit-content;
+}
+.box1{
+    background-image: url(./image\ 5.png);
+    width: 864px;
+    height: 486px;
+
+}
+.box2{
+    background-image: url(./image\ 6.png);
+    width: 864px;
+    height: 486px;
+    display: flex;
+    justify-content: end;
+}
+.s1-text1{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    color: rgba(255, 255, 255, 1);
+    padding-left: 42px;
+    padding-top: 34px;
+}
+.s1-text2{
+    padding-top: 34px;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    color: rgba(255, 255, 255, 1);
+}
+.s2-titlet{
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    padding: 30px;
+}
+.s2-box1{
+    display: flex;
+    width: 1728px;
+    height: 1080px;
+    background-color: rgb(240, 240, 240);
+}
+.s2-box1a{
+    background-color: rgb(240, 240, 240);
+    background-image: url(./image\ 7.png);
+    width: 432px;
+    height: 400px;
+    text-align: center;
+}   
+.s2-box1b{
+    background-color: rgb(240, 240, 240);
+    background-image: url(./image\ 8.png);
+    width: 432px;
+    height: 400px;
+}
+.s2-box1c{
+    background-color: rgb(240, 240, 240);
+    background-image: url(./image\ 7-2.png);
+    width: 432px;
+    height: 400px;
+}
+.s2-box1d{
+    background-color: rgb(240, 240, 240);
+    background-image: url(./image\ 7-3.png);
+    width: 432px;
+    height: 400px;
+}
